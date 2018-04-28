@@ -1,0 +1,39 @@
+screen_resolution_x = 1920
+screen_resolution_y = 1080
+
+position_lefttop_x = 100
+position_lefttop_y = 700
+position_rightbottom_x = 1820
+position_rightbottom_y = 900
+position_horizontal_align = center
+position_vertical_align = middle
+
+
+font_color_r = 0
+font_color_g = 0
+font_color_b = 255
+font_size = 65
+font_italic = True
+font_bold = True
+
+blur_color_r = 255
+blur_color_g = 0
+blur_color_b = 0
+blur_size = 5.5
+
+outline_color_r = 0
+outline_color_g = 255
+outline_color_b = 0
+outline_size = 1.5
+
+scripts = {
+
+吾輩わがはいは猫である　名前はまだ無い
+
+
+どこで生れたかとんと見当けんとうがつかぬ
+何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している
+吾輩はここで始めて人間というものを見た
+しかもあとで聞くとそれは書生という人間中で一番獰悪どうあくな種族であったそうだ
+
+}
